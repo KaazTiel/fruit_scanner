@@ -1,3 +1,7 @@
 # fruit_scanner
 
-A new Flutter project.
+Scanner de Frutas com Detector de Qualidade para Android
+- Banana
+- Maçã
+- Laranja
+- Romã
